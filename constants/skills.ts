@@ -5,7 +5,7 @@ export const SKILLS = [
   },
   {
     category: "Backend",
-    technologies: ["Spring Boot"]
+    technologies: ["Java", "Spring Boot"]
   },
   {
     category: "Databases",
@@ -16,7 +16,7 @@ export const SKILLS = [
     technologies: ["Firebase", "Vercel"]
   },
   {
-    category: "Data Analytics",
+    category: "Data",
     technologies: ["Python", "SQL", "Excel"]
   }
 ];

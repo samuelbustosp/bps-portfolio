@@ -33,7 +33,7 @@ export default function SkillsPieSimple() {
             data={data}
             dataKey="value"
             nameKey="name"
-            cx="75%"
+            cx="50%"
             cy="50%"
             innerRadius={60}
           >
